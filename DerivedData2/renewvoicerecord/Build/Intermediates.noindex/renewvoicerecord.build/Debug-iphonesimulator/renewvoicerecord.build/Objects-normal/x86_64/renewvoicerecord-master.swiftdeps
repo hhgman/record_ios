@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "859f8904f3d746a60795d9bbfc5ad318"
+build_time: [1520875729, 309551000]
+inputs:
+  "/Users/JoYH/Downloads/record_ios-master-5/renewvoicerecord/welcomeViewController.swift": [1520850823, 0]
+  "/Users/JoYH/Downloads/record_ios-master-5/renewvoicerecord/loginViewController.swift": [1520875729, 0]
+  "/Users/JoYH/Downloads/record_ios-master-5/renewvoicerecord/AppDelegate.swift": [1518013488, 0]
+  "/Users/JoYH/Downloads/record_ios-master-5/renewvoicerecord/resultViewController.swift": [1520875729, 0]
+  "/Users/JoYH/Downloads/record_ios-master-5/renewvoicerecord/recordViewController.swift": [1520875729, 0]
+  "/Users/JoYH/Downloads/record_ios-master-5/renewvoicerecord/SecondaryViewController.swift": [1518013488, 0]
+  "/Users/JoYH/Downloads/record_ios-master-5/renewvoicerecord/registerViewController.swift": [1520757880, 0]

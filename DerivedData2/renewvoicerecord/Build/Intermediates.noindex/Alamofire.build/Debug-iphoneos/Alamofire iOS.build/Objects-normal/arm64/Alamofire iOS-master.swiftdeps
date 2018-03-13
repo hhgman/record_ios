@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "45783e9cc33c9195edaeeb7a82ba94fe"
+build_time: [1520871056, 618134000]
+inputs:
+  "/Users/JoYH/Downloads/Alamofire-master/Source/Timeline.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/SessionDelegate.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/ParameterEncoding.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/Request.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/ResponseSerialization.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/AFError.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/SessionManager.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/Response.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/Alamofire.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/MultipartFormData.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/ServerTrustPolicy.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/DispatchQueue+Alamofire.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/NetworkReachabilityManager.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/TaskDelegate.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/Validation.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/Notifications.swift": [1513756092, 0]
+  "/Users/JoYH/Downloads/Alamofire-master/Source/Result.swift": [1513756092, 0]

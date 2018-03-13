@@ -1,0 +1,663 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EditDelegate"
+- "resultViewController"
+provides-nominal:
+- "16renewvoicerecord12EditDelegateP"
+- "16renewvoicerecord20resultViewControllerC"
+provides-member:
+- ["16renewvoicerecord12EditDelegateP", ""]
+- ["16renewvoicerecord20resultViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "prbar1"
+- "prbar2"
+- "prbar3"
+- "prbar4"
+- "prbar5"
+- "score1Lbl"
+- "score2Lbl"
+- "score3Lbl"
+- "score4Lbl"
+- "score5Lbl"
+- "viewDidLoad"
+depends-top-level:
+- !private "/"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "EditDelegate"
+- "Float"
+- "String"
+- !private "StringLiteralType"
+- "UILabel"
+- "UIProgressView"
+- "UIViewController"
+- "resultViewController"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- ["s19BinaryFloatingPointP", "init"]
+- !private ["So15CALayerDelegateP", "setProgress"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", "Float"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "prbar1"]
+- !private ["s7CVarArgP", "prbar2"]
+- !private ["s7CVarArgP", "prbar3"]
+- !private ["s7CVarArgP", "prbar4"]
+- !private ["s7CVarArgP", "prbar5"]
+- !private ["s7CVarArgP", "score1Lbl"]
+- !private ["s7CVarArgP", "score2Lbl"]
+- !private ["s7CVarArgP", "score3Lbl"]
+- !private ["s7CVarArgP", "score4Lbl"]
+- !private ["s7CVarArgP", "score5Lbl"]
+- !private ["s7CVarArgP", "setProgress"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "text1"]
+- !private ["s7CVarArgP", "text2"]
+- !private ["s7CVarArgP", "text3"]
+- !private ["s7CVarArgP", "text4"]
+- !private ["s7CVarArgP", "text5"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["s28CustomDebugStringConvertibleP", "Float"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "prbar1"]
+- !private ["s28CustomDebugStringConvertibleP", "prbar2"]
+- !private ["s28CustomDebugStringConvertibleP", "prbar3"]
+- !private ["s28CustomDebugStringConvertibleP", "prbar4"]
+- !private ["s28CustomDebugStringConvertibleP", "prbar5"]
+- !private ["s28CustomDebugStringConvertibleP", "score1Lbl"]
+- !private ["s28CustomDebugStringConvertibleP", "score2Lbl"]
+- !private ["s28CustomDebugStringConvertibleP", "score3Lbl"]
+- !private ["s28CustomDebugStringConvertibleP", "score4Lbl"]
+- !private ["s28CustomDebugStringConvertibleP", "score5Lbl"]
+- !private ["s28CustomDebugStringConvertibleP", "setProgress"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "text1"]
+- !private ["s28CustomDebugStringConvertibleP", "text2"]
+- !private ["s28CustomDebugStringConvertibleP", "text3"]
+- !private ["s28CustomDebugStringConvertibleP", "text4"]
+- !private ["s28CustomDebugStringConvertibleP", "text5"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "Float"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "prbar1"]
+- !private ["s23CustomStringConvertibleP", "prbar2"]
+- !private ["s23CustomStringConvertibleP", "prbar3"]
+- !private ["s23CustomStringConvertibleP", "prbar4"]
+- !private ["s23CustomStringConvertibleP", "prbar5"]
+- !private ["s23CustomStringConvertibleP", "score1Lbl"]
+- !private ["s23CustomStringConvertibleP", "score2Lbl"]
+- !private ["s23CustomStringConvertibleP", "score3Lbl"]
+- !private ["s23CustomStringConvertibleP", "score4Lbl"]
+- !private ["s23CustomStringConvertibleP", "score5Lbl"]
+- !private ["s23CustomStringConvertibleP", "setProgress"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "text1"]
+- !private ["s23CustomStringConvertibleP", "text2"]
+- !private ["s23CustomStringConvertibleP", "text3"]
+- !private ["s23CustomStringConvertibleP", "text4"]
+- !private ["s23CustomStringConvertibleP", "text5"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s9DecodableP", "init"]
+- ["16renewvoicerecord12EditDelegateP", "String"]
+- ["16renewvoicerecord12EditDelegateP", "didMessageEditdone"]
+- ["16renewvoicerecord12EditDelegateP", "resultViewController"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "Float"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "prbar1"]
+- !private ["s9EquatableP", "prbar2"]
+- !private ["s9EquatableP", "prbar3"]
+- !private ["s9EquatableP", "prbar4"]
+- !private ["s9EquatableP", "prbar5"]
+- !private ["s9EquatableP", "score1Lbl"]
+- !private ["s9EquatableP", "score2Lbl"]
+- !private ["s9EquatableP", "score3Lbl"]
+- !private ["s9EquatableP", "score4Lbl"]
+- !private ["s9EquatableP", "score5Lbl"]
+- !private ["s9EquatableP", "setProgress"]
+- !private ["s9EquatableP", "text"]
+- !private ["s9EquatableP", "text1"]
+- !private ["s9EquatableP", "text2"]
+- !private ["s9EquatableP", "text3"]
+- !private ["s9EquatableP", "text4"]
+- !private ["s9EquatableP", "text5"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["Sf", "init"]
+- ["s13FloatingPointP", "init"]
+- ["s8HashableP", "Float"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "prbar1"]
+- !private ["s8HashableP", "prbar2"]
+- !private ["s8HashableP", "prbar3"]
+- !private ["s8HashableP", "prbar4"]
+- !private ["s8HashableP", "prbar5"]
+- !private ["s8HashableP", "score1Lbl"]
+- !private ["s8HashableP", "score2Lbl"]
+- !private ["s8HashableP", "score3Lbl"]
+- !private ["s8HashableP", "score4Lbl"]
+- !private ["s8HashableP", "score5Lbl"]
+- !private ["s8HashableP", "setProgress"]
+- !private ["s8HashableP", "text"]
+- !private ["s8HashableP", "text1"]
+- !private ["s8HashableP", "text2"]
+- !private ["s8HashableP", "text3"]
+- !private ["s8HashableP", "text4"]
+- !private ["s8HashableP", "text5"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "Float"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "prbar1"]
+- !private ["So8NSCodingP", "prbar2"]
+- !private ["So8NSCodingP", "prbar3"]
+- !private ["So8NSCodingP", "prbar4"]
+- !private ["So8NSCodingP", "prbar5"]
+- !private ["So8NSCodingP", "score1Lbl"]
+- !private ["So8NSCodingP", "score2Lbl"]
+- !private ["So8NSCodingP", "score3Lbl"]
+- !private ["So8NSCodingP", "score4Lbl"]
+- !private ["So8NSCodingP", "score5Lbl"]
+- !private ["So8NSCodingP", "setProgress"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "text1"]
+- !private ["So8NSCodingP", "text2"]
+- !private ["So8NSCodingP", "text3"]
+- !private ["So8NSCodingP", "text4"]
+- !private ["So8NSCodingP", "text5"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "Float"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "prbar1"]
+- !private ["So26NSExtensionRequestHandlingP", "prbar2"]
+- !private ["So26NSExtensionRequestHandlingP", "prbar3"]
+- !private ["So26NSExtensionRequestHandlingP", "prbar4"]
+- !private ["So26NSExtensionRequestHandlingP", "prbar5"]
+- !private ["So26NSExtensionRequestHandlingP", "score1Lbl"]
+- !private ["So26NSExtensionRequestHandlingP", "score2Lbl"]
+- !private ["So26NSExtensionRequestHandlingP", "score3Lbl"]
+- !private ["So26NSExtensionRequestHandlingP", "score4Lbl"]
+- !private ["So26NSExtensionRequestHandlingP", "score5Lbl"]
+- !private ["So26NSExtensionRequestHandlingP", "text1"]
+- !private ["So26NSExtensionRequestHandlingP", "text2"]
+- !private ["So26NSExtensionRequestHandlingP", "text3"]
+- !private ["So26NSExtensionRequestHandlingP", "text4"]
+- !private ["So26NSExtensionRequestHandlingP", "text5"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Float"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UIProgressView"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "prbar1"]
+- ["So8NSObjectC", "prbar2"]
+- ["So8NSObjectC", "prbar3"]
+- ["So8NSObjectC", "prbar4"]
+- ["So8NSObjectC", "prbar5"]
+- ["So8NSObjectC", "score1Lbl"]
+- ["So8NSObjectC", "score2Lbl"]
+- ["So8NSObjectC", "score3Lbl"]
+- ["So8NSObjectC", "score4Lbl"]
+- ["So8NSObjectC", "score5Lbl"]
+- !private ["So8NSObjectC", "setProgress"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "text1"]
+- ["So8NSObjectC", "text2"]
+- ["So8NSObjectC", "text3"]
+- ["So8NSObjectC", "text4"]
+- ["So8NSObjectC", "text5"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So16NSObjectProtocolP", "Float"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "prbar1"]
+- !private ["So16NSObjectProtocolP", "prbar2"]
+- !private ["So16NSObjectProtocolP", "prbar3"]
+- !private ["So16NSObjectProtocolP", "prbar4"]
+- !private ["So16NSObjectProtocolP", "prbar5"]
+- !private ["So16NSObjectProtocolP", "score1Lbl"]
+- !private ["So16NSObjectProtocolP", "score2Lbl"]
+- !private ["So16NSObjectProtocolP", "score3Lbl"]
+- !private ["So16NSObjectProtocolP", "score4Lbl"]
+- !private ["So16NSObjectProtocolP", "score5Lbl"]
+- !private ["So16NSObjectProtocolP", "setProgress"]
+- !private ["So16NSObjectProtocolP", "text"]
+- !private ["So16NSObjectProtocolP", "text1"]
+- !private ["So16NSObjectProtocolP", "text2"]
+- !private ["So16NSObjectProtocolP", "text3"]
+- !private ["So16NSObjectProtocolP", "text4"]
+- !private ["So16NSObjectProtocolP", "text5"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- ["s7NumericP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- ["s13SignedNumericP", "init"]
+- ["s10StrideableP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "setProgress"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "setProgress"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "Float"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "prbar1"]
+- !private ["So21UIAppearanceContainerP", "prbar2"]
+- !private ["So21UIAppearanceContainerP", "prbar3"]
+- !private ["So21UIAppearanceContainerP", "prbar4"]
+- !private ["So21UIAppearanceContainerP", "prbar5"]
+- !private ["So21UIAppearanceContainerP", "score1Lbl"]
+- !private ["So21UIAppearanceContainerP", "score2Lbl"]
+- !private ["So21UIAppearanceContainerP", "score3Lbl"]
+- !private ["So21UIAppearanceContainerP", "score4Lbl"]
+- !private ["So21UIAppearanceContainerP", "score5Lbl"]
+- !private ["So21UIAppearanceContainerP", "setProgress"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "text1"]
+- !private ["So21UIAppearanceContainerP", "text2"]
+- !private ["So21UIAppearanceContainerP", "text3"]
+- !private ["So21UIAppearanceContainerP", "text4"]
+- !private ["So21UIAppearanceContainerP", "text5"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So18UIContentContainerP", "Float"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "prbar1"]
+- !private ["So18UIContentContainerP", "prbar2"]
+- !private ["So18UIContentContainerP", "prbar3"]
+- !private ["So18UIContentContainerP", "prbar4"]
+- !private ["So18UIContentContainerP", "prbar5"]
+- !private ["So18UIContentContainerP", "score1Lbl"]
+- !private ["So18UIContentContainerP", "score2Lbl"]
+- !private ["So18UIContentContainerP", "score3Lbl"]
+- !private ["So18UIContentContainerP", "score4Lbl"]
+- !private ["So18UIContentContainerP", "score5Lbl"]
+- !private ["So18UIContentContainerP", "text1"]
+- !private ["So18UIContentContainerP", "text2"]
+- !private ["So18UIContentContainerP", "text3"]
+- !private ["So18UIContentContainerP", "text4"]
+- !private ["So18UIContentContainerP", "text5"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "setProgress"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "setProgress"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "Float"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "prbar1"]
+- !private ["So18UIFocusEnvironmentP", "prbar2"]
+- !private ["So18UIFocusEnvironmentP", "prbar3"]
+- !private ["So18UIFocusEnvironmentP", "prbar4"]
+- !private ["So18UIFocusEnvironmentP", "prbar5"]
+- !private ["So18UIFocusEnvironmentP", "score1Lbl"]
+- !private ["So18UIFocusEnvironmentP", "score2Lbl"]
+- !private ["So18UIFocusEnvironmentP", "score3Lbl"]
+- !private ["So18UIFocusEnvironmentP", "score4Lbl"]
+- !private ["So18UIFocusEnvironmentP", "score5Lbl"]
+- !private ["So18UIFocusEnvironmentP", "setProgress"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "text1"]
+- !private ["So18UIFocusEnvironmentP", "text2"]
+- !private ["So18UIFocusEnvironmentP", "text3"]
+- !private ["So18UIFocusEnvironmentP", "text4"]
+- !private ["So18UIFocusEnvironmentP", "text5"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "setProgress"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So7UILabelC", "text"]
+- ["So30UIPasteConfigurationSupportingP", "Float"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "prbar1"]
+- !private ["So30UIPasteConfigurationSupportingP", "prbar2"]
+- !private ["So30UIPasteConfigurationSupportingP", "prbar3"]
+- !private ["So30UIPasteConfigurationSupportingP", "prbar4"]
+- !private ["So30UIPasteConfigurationSupportingP", "prbar5"]
+- !private ["So30UIPasteConfigurationSupportingP", "score1Lbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "score2Lbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "score3Lbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "score4Lbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "score5Lbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "setProgress"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "text1"]
+- !private ["So30UIPasteConfigurationSupportingP", "text2"]
+- !private ["So30UIPasteConfigurationSupportingP", "text3"]
+- !private ["So30UIPasteConfigurationSupportingP", "text4"]
+- !private ["So30UIPasteConfigurationSupportingP", "text5"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So14UIProgressViewC", "setProgress"]
+- ["So11UIResponderC", "Float"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UIProgressView"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "prbar1"]
+- ["So11UIResponderC", "prbar2"]
+- ["So11UIResponderC", "prbar3"]
+- ["So11UIResponderC", "prbar4"]
+- ["So11UIResponderC", "prbar5"]
+- ["So11UIResponderC", "score1Lbl"]
+- ["So11UIResponderC", "score2Lbl"]
+- ["So11UIResponderC", "score3Lbl"]
+- ["So11UIResponderC", "score4Lbl"]
+- ["So11UIResponderC", "score5Lbl"]
+- !private ["So11UIResponderC", "setProgress"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "text1"]
+- ["So11UIResponderC", "text2"]
+- ["So11UIResponderC", "text3"]
+- ["So11UIResponderC", "text4"]
+- ["So11UIResponderC", "text5"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "Float"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "prbar1"]
+- !private ["So30UIResponderStandardEditActionsP", "prbar2"]
+- !private ["So30UIResponderStandardEditActionsP", "prbar3"]
+- !private ["So30UIResponderStandardEditActionsP", "prbar4"]
+- !private ["So30UIResponderStandardEditActionsP", "prbar5"]
+- !private ["So30UIResponderStandardEditActionsP", "score1Lbl"]
+- !private ["So30UIResponderStandardEditActionsP", "score2Lbl"]
+- !private ["So30UIResponderStandardEditActionsP", "score3Lbl"]
+- !private ["So30UIResponderStandardEditActionsP", "score4Lbl"]
+- !private ["So30UIResponderStandardEditActionsP", "score5Lbl"]
+- !private ["So30UIResponderStandardEditActionsP", "setProgress"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "text1"]
+- !private ["So30UIResponderStandardEditActionsP", "text2"]
+- !private ["So30UIResponderStandardEditActionsP", "text3"]
+- !private ["So30UIResponderStandardEditActionsP", "text4"]
+- !private ["So30UIResponderStandardEditActionsP", "text5"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So16UIStateRestoringP", "Float"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "prbar1"]
+- !private ["So16UIStateRestoringP", "prbar2"]
+- !private ["So16UIStateRestoringP", "prbar3"]
+- !private ["So16UIStateRestoringP", "prbar4"]
+- !private ["So16UIStateRestoringP", "prbar5"]
+- !private ["So16UIStateRestoringP", "score1Lbl"]
+- !private ["So16UIStateRestoringP", "score2Lbl"]
+- !private ["So16UIStateRestoringP", "score3Lbl"]
+- !private ["So16UIStateRestoringP", "score4Lbl"]
+- !private ["So16UIStateRestoringP", "score5Lbl"]
+- !private ["So16UIStateRestoringP", "text1"]
+- !private ["So16UIStateRestoringP", "text2"]
+- !private ["So16UIStateRestoringP", "text3"]
+- !private ["So16UIStateRestoringP", "text4"]
+- !private ["So16UIStateRestoringP", "text5"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- ["So18UITraitEnvironmentP", "Float"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "prbar1"]
+- !private ["So18UITraitEnvironmentP", "prbar2"]
+- !private ["So18UITraitEnvironmentP", "prbar3"]
+- !private ["So18UITraitEnvironmentP", "prbar4"]
+- !private ["So18UITraitEnvironmentP", "prbar5"]
+- !private ["So18UITraitEnvironmentP", "score1Lbl"]
+- !private ["So18UITraitEnvironmentP", "score2Lbl"]
+- !private ["So18UITraitEnvironmentP", "score3Lbl"]
+- !private ["So18UITraitEnvironmentP", "score4Lbl"]
+- !private ["So18UITraitEnvironmentP", "score5Lbl"]
+- !private ["So18UITraitEnvironmentP", "setProgress"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "text1"]
+- !private ["So18UITraitEnvironmentP", "text2"]
+- !private ["So18UITraitEnvironmentP", "text3"]
+- !private ["So18UITraitEnvironmentP", "text4"]
+- !private ["So18UITraitEnvironmentP", "text5"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "setProgress"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Float"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UIProgressView"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "prbar1"]
+- ["So16UIViewControllerC", "prbar2"]
+- ["So16UIViewControllerC", "prbar3"]
+- ["So16UIViewControllerC", "prbar4"]
+- ["So16UIViewControllerC", "prbar5"]
+- ["So16UIViewControllerC", "score1Lbl"]
+- ["So16UIViewControllerC", "score2Lbl"]
+- ["So16UIViewControllerC", "score3Lbl"]
+- ["So16UIViewControllerC", "score4Lbl"]
+- ["So16UIViewControllerC", "score5Lbl"]
+- ["So16UIViewControllerC", "text1"]
+- ["So16UIViewControllerC", "text2"]
+- ["So16UIViewControllerC", "text3"]
+- ["So16UIViewControllerC", "text4"]
+- ["So16UIViewControllerC", "text5"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- ["s15_CVarArgAlignedP", "init"]
+- ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setProgress"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Float"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prbar1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prbar2"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prbar3"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prbar4"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prbar5"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "score1Lbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "score2Lbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "score3Lbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "score4Lbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "score5Lbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setProgress"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text2"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text3"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text4"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text5"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- ["s11_StrideableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- ["16renewvoicerecord20resultViewControllerC", "Float"]
+- ["16renewvoicerecord20resultViewControllerC", "UILabel"]
+- ["16renewvoicerecord20resultViewControllerC", "UIProgressView"]
+- ["16renewvoicerecord20resultViewControllerC", "deinit"]
+- ["16renewvoicerecord20resultViewControllerC", "didReceiveMemoryWarning"]
+- ["16renewvoicerecord20resultViewControllerC", "init"]
+- ["16renewvoicerecord20resultViewControllerC", "prbar1"]
+- ["16renewvoicerecord20resultViewControllerC", "prbar2"]
+- ["16renewvoicerecord20resultViewControllerC", "prbar3"]
+- ["16renewvoicerecord20resultViewControllerC", "prbar4"]
+- ["16renewvoicerecord20resultViewControllerC", "prbar5"]
+- ["16renewvoicerecord20resultViewControllerC", "score1Lbl"]
+- ["16renewvoicerecord20resultViewControllerC", "score2Lbl"]
+- ["16renewvoicerecord20resultViewControllerC", "score3Lbl"]
+- ["16renewvoicerecord20resultViewControllerC", "score4Lbl"]
+- ["16renewvoicerecord20resultViewControllerC", "score5Lbl"]
+- ["16renewvoicerecord20resultViewControllerC", "text1"]
+- ["16renewvoicerecord20resultViewControllerC", "text2"]
+- ["16renewvoicerecord20resultViewControllerC", "text3"]
+- ["16renewvoicerecord20resultViewControllerC", "text4"]
+- ["16renewvoicerecord20resultViewControllerC", "text5"]
+- ["16renewvoicerecord20resultViewControllerC", "viewDidLoad"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- "s19BinaryFloatingPointP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "16renewvoicerecord12EditDelegateP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "Sf"
+- "s13FloatingPointP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "s7NumericP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- "s13SignedNumericP"
+- "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- !private "So14UIProgressViewC"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s23_BidirectionalIndexableP"
+- "s15_CVarArgAlignedP"
+- "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+- "16renewvoicerecord20resultViewControllerC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/JoYH/Documents/Programming/Swift/newkree/DerivedData/renewvoicerecord/Build/Products/Debug-iphoneos/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/JoYH/Documents/Programming/Swift/newkree/DerivedData/renewvoicerecord/Build/Products/Debug-iphoneos/Alamofire.framework/Headers/Alamofire.h"
+- "/Users/JoYH/Documents/Programming/Swift/newkree/DerivedData/renewvoicerecord/Build/Products/Debug-iphoneos/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/JoYH/Documents/Programming/Swift/newkree/DerivedData/renewvoicerecord/Build/Products/Debug-iphoneos/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "8028a235a1a9f69ff414d88728cd4ed1"
