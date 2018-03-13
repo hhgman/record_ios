@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
 options: "c2f33645387afe6fc22f622383c0c82c"
-build_time: [1520871335, 598539000]
+build_time: [1520930886, 795667000]
 inputs:
   "/Users/JoYH/Downloads/Alamofire-master/Source/Timeline.swift": [1513756092, 0]
   "/Users/JoYH/Downloads/Alamofire-master/Source/SessionDelegate.swift": [1513756092, 0]

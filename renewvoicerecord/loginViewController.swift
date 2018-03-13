@@ -111,7 +111,7 @@ class loginViewController: UIViewController {
 
         let url = URL(string: "http://165.132.120.188:8000/api-token-auth/")
 
-        // new declare for username and password And set 'preference' to 
+        // new declare for username and password And set 'preference' to default set for each user
         let username = usernameTextField.text
         let password = passwordTextField.text
         let preference = UserDefaults.standard
